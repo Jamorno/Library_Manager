@@ -15,3 +15,4 @@ library.json
 env/
 ENV/
 venv/
+.idea/
