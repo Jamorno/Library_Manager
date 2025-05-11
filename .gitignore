@@ -1,0 +1,17 @@
+---
+
+### 📂 `.gitignore`
+```gitignore
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# JSON data file
+library.json
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
